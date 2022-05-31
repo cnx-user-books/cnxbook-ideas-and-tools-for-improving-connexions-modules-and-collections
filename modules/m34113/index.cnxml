@@ -1,0 +1,43 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Using PowerPoint to Create JPEG Images</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34113</md:content-id>
+  <md:title>Using PowerPoint to Create JPEG Images</md:title>
+  <md:abstract>Simple instructions for using PowerPoint to make JPEG images (file extension .jpg) that can be inserted into a Word documents for conversion into Connexions modules.</md:abstract>
+  <md:uuid>7732e28f-1141-44d1-85fe-f4b8c2ea9f38</md:uuid>
+</metadata>
+
+<content>
+    <section id="id16267205">
+      <title>Concept and Background</title>
+      <para id="id6581952">Educational materials can be greatly enhanced with graphical images. A picture is worth a thousand words. They are easy to create and many will use the JPEG format (Joint Photographic Experts Group which uses the .jpg file extension, pronounced Jay Peg). </para>
+      <para id="id26035640">The JPEG format is the best format for those photo images (or created images) which must be small files, for example, for web sites or for email. The JPEG file is wonderfully small, often compressed to perhaps only 1/10 of the size of the original data, which is a good thing when modems are involved. However, this fantastic compression efficiency comes with a high price. JPEG uses lossy compression (lossy meaning "with losses to quality"). Lossy means that some image quality is lost when the JPEG data is compressed and saved.</para>
+      <para id="id4148007">The process described below saves the images created as JPEG files, but could be used to create GIF files (Graphical Interchange Format which uses the .gif file extension) or PNG files (Portable Network Graphics format which uses the .png file extension). Both the GIF and PNG formats can be used within Connexions directly or as images inserted into Word documents that are converted into Connexions modules. The GIF format uses fewer colors and is often of a slightly lower quality than JPEG but smaller in size. The PNG format is about 50% larger in size with only slightly (almost unperceivable) better clarity. The JPEG format will usually give adequate results.</para>
+    </section>
+    <section id="id19308970">
+      <title>Creating a JPEG using Microsoft PowerPoint 2007</title>
+      <para id="id16158552">To keep things simple, we suggest that you use a separate PowerPoint file for each image. The following image was created using PowerPoint 2007, saved as a Screen_Shot.pptx file then saved again using “Saved As” as a Screen_Shot.jpg file. You simple hit the drop down box on “Save as type” and scroll to JPEG. When the “Save as type” is changed to JPEG, you click on the normal “Save” and the pop-up box to the right appears and you select “Current Slide Only”. </para>
+      <para id="id6586538">
+        <figure id="id17086002">
+          <media id="id17086002_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-0fcb.jpg" id="id17086002__onlineimage" height="488" width="650"/>
+          </media>
+          <caption>Saving a PowerPoint Slide as a JPEG File</caption>
+        </figure>
+      </para>
+    </section>
+    <section id="id27600708">
+      <title>Example</title>
+      <para id="id7593625">In addition to the screen shot slide shown above, the following slide was created using PowerPoint and saved as a JPEG file to help explain the Integrated Development Environment of a C++ compiler. The image was simply inserted into the Word Document that was used to create the Connexions module.</para>
+      <para id="id13453528">
+        <figure id="id3542945">
+          <media id="id3542945_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-2368.jpg" id="id3542945__onlineimage" height="488" width="650"/>
+          </media>
+          <caption>Integrated Development Environment – IDE</caption>
+        </figure>
+      </para>
+      <para id="id17041739">You can see how it was used to support text information in the following module: <link document="m18920">http://cnx.org/content/m18920/latest/</link></para>
+    </section>
+  </content>
+</document>

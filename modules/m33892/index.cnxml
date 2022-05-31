@@ -1,0 +1,85 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Delivering Instructor Materials for  a Connexions Collection used as a Textbook</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33892</md:content-id>
+  <md:title>Delivering Instructor Materials for  a Connexions Collection used as a Textbook</md:title>
+  <md:abstract>Explains how to use a password protected .zip file to distribute instructor materials for a Connexions collection used as a textbook for a course.</md:abstract>
+  <md:uuid>5b980f23-5fd5-4225-8988-6f4574a49799</md:uuid>
+</metadata>
+<content>
+    <section id="id1168407074253">
+      <title>Instructor Materials</title>
+      <para id="id4576913">Publishers, in conjunction with authors, usually create a variety of supplemental materials for a textbook. These materials can consist of:</para>
+      <list id="id1168406018761" list-type="bulleted">
+        <item>Test Banks</item>
+        <item>PowerPoint Presentations</item>
+        <item>Additional Problems and Exercises (not included in the textbook)</item>
+        <item>Solutions for Textbook and Supplemental Problems and Exercises</item>
+        <item>Other items</item>
+      </list>
+      <para id="id1168404773575">Because these materials usually include solutions, publishers usually deliver this item via a CD that is available only to professors or instructors. Connexions authors that create a collection that will be used as a textbook for a course desire to deliver the publisher equivalent of instructor materials. The ability to distribute these materials via a Connexions module is hampered by the open Creative Commons Attribution License of CC-BY that the Connexions Project uses. The problem: How can we distribute instructor materials?</para>
+    </section>
+    <section id="id1168408455700">
+      <title>Distribution Solution</title>
+      <para id="id1168410332981">Create a module that contains a password protected .zip file. Make the .zip file downloadable from a Connexions module. Require, professors and instructors to acquire the password directly from you, the author of the textbook. Direct them to the software needed for unlocking the .zip file.</para>
+      <section id="id1168403476920">
+        <title>Create the .zip File</title>
+        <para id="id1168411261834">Organize your materials in a folder. We will use “Sample-CNX” for the folder name as the example for this module. I will place a few Microsoft files (Word, Excel and PowerPoint) in this folder and create at least one sub-folder. You should name and create your folder, including sub folders and files as appropriate to your course materials.</para>
+        <para id="id1168407047613">
+          <figure id="id7253876">
+            <media id="id7253876_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics1-ea08.jpg" id="id7253876__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>Create Zip File</caption>
+          </figure>
+        </para>
+      </section>
+      <section id="id3078052">
+        <title>Password Protect the Zip File</title>
+        <para id="id1168411144890">There are several software products available for password protecting files. You should choose a product that is available free of charge for others to use. They will need the software to be able to un-encrypt the .zip folder. We choose: <emphasis effect="bold">Encrypt Files v1.5</emphasis> which is available via the link for Encrypt Files at: <link url="http://www.encryptfiles.net/">http://www.encryptfiles.net/</link>  NOTE: If you click on this link you will need to back space the browser in order to return to this Connexions module.</para>
+        <para id="id1168409462702">After installing the software we followed the directions to encrypt the .zip file and we used the password of: 1234567890klb</para>
+      </section>
+      <section id="id1168407076109">
+        <title>Create a Connexions Module</title>
+        <para id="id1168411695467">We recommend that you do not include the “Instructor Materials” module within your textbook but make reference to the module by name and Connexions module number in the preface to your collection. This will keep the .zip file from being included in the multi-media download .zip associated with the collection that students would normally download.</para>
+        <para id="id1168408098603">Make sure to include in this module:</para>
+        <list id="id3691228" list-type="bulleted">
+          <item>the software download information – Included above.</item>
+          <item>the encrypted .zip file – Included below.</item>
+          <item>your email address where professors and instructors can contact you for the password – The password is included above for your convenience.</item>
+        </list>
+        <para id="id1168408419898">To download the encrypted .zip folder you would usually provide a link to that file. However, you won’t know what the exact links is until you have created the module. For now use a link similar to the one that follows.</para>
+        <para id="id1168418808560">Click to download: <link url="http://cnx.org/content/m33892/latest/Sample-CNX.zip">Sample-CNX.zip</link>
+</para>
+      </section>
+      <section id="id1168407924088">
+        <title>Building the Connexions Module and Fixing the Download Link</title>
+        <para id="id1168409784719">This module was built from a Microsoft Word document. After we upload the file to build the initial web page, we will also upload the Sample-CNX.zip file to the files area. Once we create the module and have a module number, we will need to fix the link with that module by editing it. </para>
+        <figure id="id5298921">
+          <media id="id5298921_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-4089.jpg" id="id5298921__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Uploading the File</caption>
+        </figure>
+        <para id="id1168408343921">After you have “Published” the module, check-out the module and edit the module in the “Full-Source Mode” changing the link making sure to use your module number and file name.</para>
+        <para id="id1168408034301">
+          <figure id="id1168409584641">
+            <media id="id1168409584641_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics3.jpg" id="id1168409584641__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>Editing the Link</caption>
+          </figure>
+        </para>
+        <para id="id1168403161152">Replace:</para>
+        <para id="id1168411202099">&lt;link document="m33255" version="Sample-CNX.zip"&gt;Sample-CNX.zip&lt;/link&gt;</para>
+        <para id="id1168413038709">With:</para>
+        <para id="id1168403103036">&lt;link url="http://cnx.org/content/m33892/latest/Sample-CNX.zip"&gt;Sample-CNX.zip&lt;/link&gt;
+</para>
+      </section>
+      <section id="id1168408758204">
+        <title>Re-Publish the Module</title>
+        <para id="id1168407017525">You should double check to make sure that everything is working properly by downloading your .zip file and seeing if you can un-encrypt it.</para>
+      </section>
+    </section>
+  </content>
+</document>

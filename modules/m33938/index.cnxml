@@ -1,0 +1,108 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Adding Activities to a Connexions Module using Lesson Builder by SoftChalk</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33938</md:content-id>
+  <md:title>Adding Activities to a Connexions Module using Lesson Builder by SoftChalk</md:title>
+  <md:abstract>Step by step instructions for adding Lesson Builder activities to a Connexions module.</md:abstract>
+  <md:uuid>30e1865a-9091-4cfc-a0b8-ff589e1a64b9</md:uuid>
+</metadata>
+
+<content>
+    <section id="id10647566">
+      <title>Concept - Overview</title>
+      <para id="id4884299">Enhancing Open Educational Resources (OER) instructional materials that are available via the Internet with interactive learning activities is a plus. They enhance the learning experience. Many products exist, but we are showcasing activities built with Lesson Builder Ver 5 a software product by SoftChalk. We will need to make some modifications to the files built by Lesson Builder before we move them into Connexions. Following are the steps needed to make the learning activities work.</para>
+    </section>
+    <section id="id22495528">
+      <title>Step 1 – Build the Lesson Builder Activities</title>
+      <para id="id18398131">Using the Lesson Builder software by SoftChalk, build your activities. We built three (3) activities:</para>
+      <list id="id22492303" list-type="enumerated" number-style="arabic">
+        <item>Flash Cards</item>
+        <item>Crossword Puzzle</item>
+        <item>Seek A Word</item>
+      </list>
+      <para id="id22304040">We saved them in as: CNX_Example. This created a folder with that name on our disk drive.</para>
+    </section>
+    <section id="id22153962">
+      <title>Step 2 – Modifying the Lesson Builder Files</title>
+      <section id="id21761736">
+        <title>Problem</title>
+        <para id="id12719030">The Connexions website allows the uploading of files to a Connexions module, but it does not allow the uploading of folders. Lesson Builder built the CNX_Example with two (2) sub-folders:</para>
+        <list id="id19554273" list-type="bulleted">
+          <item>ada_files – Which stands for American with Disabilities Act files</item>
+          <item>sclb_files – Which I think stands for SoftChalk library files</item>
+        </list>
+      </section>
+      <section id="id16364007">
+        <title>Solution</title>
+        <para id="id19931259">Before we started making changes, we copied the “CNX_Example” folder and renamed it to: CNS_Example_Adjusted</para>
+        <para id="id22564700">We then made the following changes to the “Adjusted” folder. This leaves intact the original folder for future modifications using the Lesson Builder software. The adjustments solution has basically two parts:</para>
+        <para id="id18399257">Move the contents of the sub-folders into the CNX_Example_Adjusted folder. We moved five files: </para>
+        <list id="id6216401" list-type="labeled-item"><title>1st</title><item>Three (3) files from the ada_files sub-folder with the names of:</item>
+</list>
+        <list id="id18282001" list-type="bulleted">
+          <item>ada_activity1.html</item>
+          <item>ada_activity2.html</item>
+          <item>ada_activity3.html</item>
+        </list>
+        <list id="id18282099" list-type="labeled-item"><title>2nd</title><item>Two (2) files from the sclb_files sub-folder with the names of:</item>
+</list>
+        <list id="id17140768" list-type="bulleted">
+          <item>flashobject.js</item>
+          <item>jwin.js</item>
+        </list>
+        <para id="id22425689">Modify as needed the .html files within the CNX_Example_Adjusted folder. We modified four files by removing the sub-folder references. HINT: You might use Notepad and the find tool to search for the sub-folder names. The modified files were:</para>
+        <list id="id6156401" list-type="bulleted">
+          <item>activityApplet1.html</item>
+          <item>activityApplet1.html</item>
+          <item>activityApplet1.html</item>
+          <item>CNX_Example.html</item>
+        </list>
+        <para id="id22377917">Upon completion of the above modifications, we deleted the empty sub-folders. We then tested the activities by double clicking on the: index.html file.</para>
+      </section>
+    </section>
+    <section id="id15306036">
+      <title>Step 3 – Zip the CNX_Example_Adjusted Folder</title>
+      <para id="id22355511">The CNX_Example_Adjusted folder will contain many files (42 in the one we created). It is easier up upload a group of files into Connexions by using a Zipped folder. Thus, you should zip the CNX_Example_Adjusted folder. Steps for zipping are:</para>
+      <list id="id15642746" list-type="bulleted">
+        <item>Right click the folder</item>
+        <item>Mouse over “Send To”</item>
+        <item>Select by clicking on “Compressed (zipped) Folder”</item>
+      </list>
+    </section>
+    <section id="id15200902">
+      <title>Step 4 – Build Your Connexions Module</title>
+      <para id="id20251882">We typically use Microsoft Word for building Connexions modules and then import the Word file when building the Connexions module. Information on building a Connexions module with Word is available at: <link document="col11154">http://cnx.org/content/col11154/latest/</link></para>
+      <para id="id22428353">Somewhere in your module you will have a link to your activity. Here are two options:</para>
+      <list id="id22360048" list-type="bulleted">
+        <item>Showing the module number: <link window="new" document="m33938" resource="index.html">http://cnx.org/content/m33938/latest/index.html</link></item>
+        <item>Showing the activity name: <link window="new" document="m33938" resource="index.html">CNX_Example</link></item>
+      </list>
+      <para id="id22224406">You should guess at the module number and it will need to be adjusted after the module is built.</para>
+    </section>
+    <section id="id19883578">
+      <title>Step 5 – Uploading the Files during Connexions Module Construction</title>
+      <para id="id22304305">Upload all of the files using the zipped item from Step 3 above.</para>
+      <figure id="id17465736">
+        <media id="id17465736_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-58a7.jpg" id="id17465736__onlineimage" height="450" width="600"/>
+        </media>
+        <caption>Uploading the activity files that were zipped together</caption>
+      </figure>
+    </section>
+    <section id="id22295294">
+      <title>Step 6 – Publish the Connexions Module</title>
+      <para id="id17784230">After you preview the module, publish it. Remember that you cannot test your activity yet. You must publish it first.</para>
+    </section>
+    <section id="id5151158">
+      <title>Step 7 – Correcting the Connexions Module File</title>
+      <para id="id22490277">After you publish the module and establish its module number, you will need to “Checkout” the module and edit any links to the activity using the “Full-Source Editing” tool. In Step 4 you guessed at the module number. Now you can correctly establish it. </para><para id="eip-583">In addition to correcting the module number change the link codes from:</para><code id="eip-2" display="block">document="m33938" target-id="index.html"
+document="m33938" target-id="index.html"<caption>Old link items.</caption></code><para id="eip-845">to:</para><code id="eip-417" display="block">window="new" document="m33938" resource="index.html"
+window="new" document="m33938" resource="index.html"
+<caption>New link items.</caption></code><para id="eip-362">You should “Preview” the module and confirm that the activity is working, then “Publish” it.</para>
+    </section>
+    <section id="id22350504">
+      <title>Existing Examples</title>
+      <para id="id22268617">A demonstration of the use of activities can be seen in any of the Practice modules (which is the last module and the activity is called: Memory Building Activities or MBAs within the Practice module) in any of the chapters of Programming Fundamentals - A Modular Structured Approach using C++. This collection is available at: <link document="col10621">http://cnx.org/content/col10621/latest/</link></para>
+    </section>
+  </content>
+</document>

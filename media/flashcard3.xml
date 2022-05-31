@@ -1,0 +1,54 @@
+<?xml version='1.0'?>
+<order>
+<color>E7E7F5</color>
+<showterm>true</showterm>
+<showdef>false</showdef>
+<customDeckText>Custom Deck</customDeckText>
+<wholeDeckText>Whole Deck</wholeDeckText>
+<showText>SHOW</showText>
+<addToText>Add to Custom</addToText>
+<showTermText>Show Term</showTermText>
+<showDefText>Show Definition</showDefText>
+<orderset value='1'>
+ <term>Lesson Builder</term>
+ <def>A software item for building lessons by SoftChalk.</def>
+ <image></image>
+ <width></width>
+ <height></height>
+</orderset>
+<orderset value='2'>
+ <term>SoftChalk</term>
+ <def>A software company that makes tools so that it is easy for educators to connect with their learners.</def>
+ <image></image>
+ <width></width>
+ <height></height>
+</orderset>
+<orderset value='3'>
+ <term>Activity</term>
+ <def>For computers it is often an interactive tool.</def>
+ <image></image>
+ <width></width>
+ <height></height>
+</orderset>
+<orderset value='4'>
+ <term>Flash Cards</term>
+ <def>Cards used to memorize information.</def>
+ <image></image>
+ <width></width>
+ <height></height>
+</orderset>
+<orderset value='5'>
+ <term>Crossword</term>
+ <def>A puzzle that list clues and you provide the word that fits into an interlocking answer area.</def>
+ <image></image>
+ <width></width>
+ <height></height>
+</orderset>
+<orderset value='6'>
+ <term>SeekaWord</term>
+ <def>An activity were you find the list of words in a matix of alphabetic letters.</def>
+ <image></image>
+ <width></width>
+ <height></height>
+</orderset>
+</order>

@@ -1,0 +1,223 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Creative Commons Attribution License</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34106</md:content-id>
+  <md:title>Creative Commons Attribution License</md:title>
+  <md:abstract>A general presentation of the Creative Commons Attribution Licenses with an emphasis on why authors might pick a certain license and why adopters of materials might desire a certain license.  Included is an alternate handout packet to be used for an in-person workshop.</md:abstract>
+  <md:uuid>2f30e18b-46c5-4b30-8bd8-cd14edcbec4b</md:uuid>
+</metadata>
+
+<content>
+    <section id="id22083387">
+      <title>Purpose</title>
+      <para id="id22083394">This material was originally developed as a portion of a workshop covering open textbook adoption. It has been converted into this self-study module. </para>
+    </section>
+    <section id="id22255231">
+      <title>Copyright with Sharing</title>
+      <para id="id22356833">The creators of ideas, art, literature, music, etc. usually have an immediate “copyright” to their creative genius. The copyright laws are designed to protect the creator (or author) of the materials from having others make money from their creations as well as to protect their works from copycats (call a derivative work). The laws are centered in the protection of the creative work by allowing its originator to control their creation.</para>
+      <para id="id22170493">Some authors (or creators) are <emphasis effect="bold">willing to share</emphasis> their creative works with certain limitations. This can be accomplished through the use of one of the <emphasis effect="bold">Creative Commons Attribution Licenses</emphasis> <link url="http://creativecommons.org/about/licenses/">http://creativecommons.org/about/licenses/</link> which have an international recognition. </para>
+      <para id="id22025464">Understanding license options will enable you to decide how you wish to share your materials and give you the ability to use the materials of others by following their license restrictions, thus avoiding any copyright infringement.</para>
+      <para id="id22025472">You should view this video from Creative Commons that discusses sharing:</para>
+      <para id="id22025476">
+        <link url="http://creativecommons.org/videos/a-shared-culture">http://creativecommons.org/videos/a-shared-culture</link>
+      </para>
+    </section>
+    <section id="id22224586">
+      <title>Creative Commons License Conditions</title>
+      <para id="id22224592">Authors retain the copyrights to their creations. Those rights include the profits from commercial use and distribution of their creations and the right to deny other to make modifications to their creations. However, some creators are willing to share some of their rights with others. This is done when they license others to use their creative material within a set of conditions.</para>
+      <para id="id22282031">The conditions are:</para>
+      <figure id="id22282038"><media id="id22282038_media" alt="">
+		<image mime-type="image/png" src="../../media/Picture 1.png" id="id22282038__onlineimage" height="33" width="33"/>
+	</media>
+	
+<caption>Attribution: by</caption></figure>
+      <para id="id22187083">You let others copy, distribute, display, and perform your copyrighted work — and derivative works based upon it — but only if they give credit the way you request.</para>
+      <figure id="id22187090"><media id="id22187090_media" alt="">
+		<image mime-type="image/png" src="../../media/Picture 2.png" id="id22187090__onlineimage" height="33" width="33"/>
+	</media>
+	
+<caption>Share Alike: sa</caption></figure>
+      <para id="id22350454">You allow others to distribute derivative works only under a license identical to the license that governs your work.</para>
+      <figure id="id22003678"><media id="id22003678_media" alt="">
+		<image mime-type="image/png" src="../../media/Picture 3.png" id="id22003678__onlineimage" height="33" width="33"/>
+	</media>
+	
+<caption>Non-Commercial: nc</caption></figure>
+      <para id="id21967712">You let others copy, distribute, display, and perform your work — and derivative works based upon it — but for non-commercial purposes only.</para>
+      <figure id="id22138133"><media id="id22138133_media" alt="">
+		<image mime-type="image/png" src="../../media/Picture 4.png" id="id22138133__onlineimage" height="33" width="33"/>
+	</media>
+	
+<caption>No Derivative Works: nd</caption></figure>
+      <para id="id22186669">You let others copy, distribute, display, and perform only verbatim copies of your work, not derivative works based upon it.</para>
+    </section>
+    <section id="id21931964">
+      <title>Creative Commons Attribution Licenses</title>
+      <para id="id21931970">By putting various conditions together; there are 6 basic licenses possible:</para>
+      <figure id="id22002315">
+        <media id="id22002315_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1.png" id="id22002315__onlineimage" height="32" width="92"/>
+        </media>
+        <caption>Attribution: cc by</caption>
+      </figure>
+      <para id="id22288368">This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered, in terms of what others can do with your works licensed under Attribution.</para>
+      <figure id="id22039519">
+        <media id="id22039519_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9.png" id="id22039519__onlineimage" height="32" width="92"/>
+        </media>
+        <caption>Attribution Share Alike: cc by-sa</caption>
+      </figure>
+      <para id="id22237552">This license lets others remix, tweak, and build upon your work even for commercial reasons, as long as they credit you and license their new creations under the identical terms. This license is often compared to open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use.</para>
+      <figure id="id22169762">
+        <media id="id22169762_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 10.png" id="id22169762__onlineimage" height="32" width="92"/>
+        </media>
+        <caption>Attribution No Derivatives: cc by-nd</caption>
+      </figure>
+      <para id="id21992771">This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to you.</para>
+      <figure id="id21992781">
+        <media id="id21992781_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 11.png" id="id21992781__onlineimage" height="32" width="92"/>
+        </media>
+        <caption>Attribution Non-Commercial: cc by-nc</caption>
+      </figure>
+      <para id="id22221891">This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.</para>
+      <figure id="id22011624">
+        <media id="id22011624_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 12.png" id="id22011624__onlineimage" height="32" width="92"/>
+        </media>
+        <caption>Attribution Non-Commercial Share Alike: cc by-nc-sa</caption>
+      </figure>
+      <para id="id22223381">This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms. Others can download and redistribute your work just like the by-nc-nd license, but they can also translate, make remixes, and produce new stories based on your work. All new work based on yours will carry the same license, so any derivatives will also be non-commercial in nature.</para>
+      <figure id="id22083968">
+        <media id="id22083968_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 13.png" id="id22083968__onlineimage" height="32" width="92"/>
+        </media>
+        <caption>Attribution Non-Commercial No Derivatives: cc by-nc-nd</caption>
+      </figure>
+      <para id="id22316672">This license is the most restrictive of our six main licenses, allowing redistribution. This license is often called the “free advertising” license because it allows others to download your works and share them with others as long as they mention you and link back to you, but they can’t change them in any way or use them commercially.</para>
+    </section>
+    <section id="id21982765">
+      <title>Exercises</title>
+      <exercise id="id21982772">
+        <problem id="oo-id21456459">
+          <para id="id22320348">From the Community College Open Textbook Collaborative – CCOTC – A portion of the Computer Science open textbook listing. Find the first occurrence of each of the 6 basic licenses.</para>
+          <para id="id22320358">1. Cascading Style Sheets (CC-BY-SA)</para>
+          <para id="id21914447">2. CGI Programming on the World Wide Web (CC-BY-NC-SA)</para>
+          <para id="id21817249">3. Complete Guide to Google Wave (CC-BY-SA)</para>
+          <para id="id21936441">4. A Conceptual Guide to NeoOffice 2 for Mac OS X (CC-BY-SA)</para>
+          <para id="id22322579">5. Database Development Lifecycle (CC-BY-NC-SA)</para>
+          <para id="id22058509">6. A Designer’s Log: Case Studies in Instructional Design (CC-BY-NC-ND)</para>
+          <para id="id22258844">7. Digital Darkroom Fundamentals for Mac OS X (CC-BY-SA)</para>
+          <para id="id22109098">8. Designing the User Interface (CC- BY-NC-SA)</para>
+          <para id="id21999837">9. Distributed Systems (CC-BY)</para>
+          <para id="id22340826">10. Electronic Commerce: The Strategic Perspective (CC-BY)</para>
+          <para id="id21986113">11. Finding Information in Information Technology and Computing (CC-BY-NC-SA)</para>
+          <para id="id22316290">12. Firefox Manual (CC-BY-SA)</para>
+          <para id="id22213694">13. Flash Tutorials (CC-BY-NC-SA)</para>
+          <para id="id22087310">14. The Future of the Internet and How to Stop It (CC-BY-NC-SA)</para>
+          <para id="id22302505">15. Information on the Web (CC-BY-NC-SA)</para>
+          <para id="id22286117">16. Interpreting Information Systems in Organizations (CC-BY)</para>
+          <para id="id22172158">17. Introducing ICT Systems (CC-BY-NC-SA)</para>
+          <para id="id22025892">18. Introduction to Computer Science (CC-BY-SA)</para>
+          <para id="id22104192">19. An introduction to Data and Information (CC-BY-NC-SA)</para>
+          <para id="id21830648">20. Introduction to Databases and MySQL (CC-BY)</para>
+          <para id="id22320547">21. Introduction to Digital Logic with Laboratory Exercises (CC-BY)</para>
+          <para id="id21995605">22. Introduction to SCORM (CC-BY-NC-SA)</para>
+          <para id="id22123792">23. LaTeX (CC-BY-SA)</para>
+          <para id="id22324465">24. Learning 2.0 for Associations (CC-BY-NC-SA)</para>
+          <para id="id22109699">25. Linux for IT Managers (CC-BY-SA)</para>
+          <para id="id22204677">26. Network Security (CC-BY-NC-SA)</para>
+          <para id="id22092928">27. Non-Programmer's Tutorial for Python 2.0 (CC-BY-SA)</para>
+          <para id="id22317740">28. Operating Systems for Single-Threaded Computers (CC-BY-SA)</para>
+          <para id="id22201716">29. Principles of Object-Oriented Programming (CC-BY)</para>
+          <para id="id22126904">30. Producing Open Source Software (CC-BY-SA) </para>
+          <para id="id22007987">31. Programming Fundamentals – A Modular Structured Approach using C++ (CC-BY)</para>
+          <para id="id22067288">32. Programming in C (CC-BY-NC-SA)</para>
+          <para id="id22128097">33. Programming Languages (CC-BY)</para>
+          <para id="id22212909">34.Programming Languages: Application and Interpretation (CC-NC-BY-SA)</para>
+          <para id="id22288717">35. Programming Using Java (CC-BY-SA)</para>
+          <para id="id22114459">36. Representing and Manipulating Data in Computers (CC-BY-NC-SA)</para>
+          <para id="id22295818">37. Structure and Interpretation of Computer Programs (CC-BY-NC)</para>
+          <para id="id22154569">38. Student Tools (CC-BY-ND)</para>
+          <para id="id22266583">39. Successful Project Management (CC-BY-SA-NC)</para>
+          <para id="id22269721">40. Understanding Open Source and Free Software Licensing (CC-BY-ND)</para>
+          <para id="id21937244">41. Using Excel 2002 (CC-BY-NC-ND)</para>
+          <para id="id22239767">42. Web Security (CC-BY)</para>
+          <para id="id22159258">43. What is a Wiki? (CC-BY-SA)</para>
+          <para id="id22218133">44. XML – Managing Data Exchange (CC-BY-SA)</para>
+        </problem>
+        <solution id="oo-id14879138">
+          <para id="id22237174">First occurrence in the sequence of the 6 licenses is:</para>
+          <para id="id22237179">9.  Distributed Systems (CC-BY)</para>
+          <para id="id22196622">1.  Cascading Style Sheets (CC-BY-SA)</para>
+          <para id="id21921579">38. Student Tools (CC-BY-ND)</para>
+          <para id="id22174467">37. Structure and Interpretation of Computer Programs (CC-BY-NC)</para>
+          <para id="id22207524">2.  CGI Programming on the World Wide Web (CC-BY-NC-SA)</para>
+          <para id="id22327035">6.  A Designer’s Log: Case Studies in Instructional Design (CC-BY-NC-ND)</para>
+        </solution>
+      </exercise>
+      <exercise id="id22088351">
+        <problem id="oo-id22007496">
+          <para id="id22088354">Figure out what would be the most likely license each author would use?</para>
+          <para id="id22022851">Place a two letter item in a blank space. Some items will not use all four spaces. HINT: Use each of the 6 basic licenses only once.</para>
+          <para id="id22299992"> </para>
+          <para id="id22022858">I don’t care if other people change my stuff, just give me credit. But I don’t want others making a stinking dime off what I did for ever. Not even off of items modified by them.</para>
+          <para id="id21958624">_____ - _____ - _____ - _____</para>
+          <para id="id22304945">I want control. You may use it and must make others aware of my efforts; but you can’t make money on it and you can’t change it.</para>
+          <para id="id22304956">_____ - _____ - _____ - _____</para>
+          <para id="id22188205">I don’t care how people use stuff I create. I am willing to openly share, but I want everyone to know that I was the author/creator of the original work.</para>
+          <para id="id22188215">_____ - _____ - _____ - _____</para>
+          <para id="id22270237">I am letting others use my material without any restrictions. They must offer the same deal on any modifications they make available to others and give me credit for my efforts.</para>
+          <para id="id22270244">_____ - _____ - _____ - _____</para>
+          <para id="id22087983">I want credit as the creator and don’t want it changed. I don’t care if others try to make money off of it.</para>
+          <para id="id22163115">_____ - _____ - _____ - _____</para>
+          <para id="id22163119">I don’t care if other people change my stuff, just give me credit. But I don’t want others making a stinking dime off what I did for ever. Not even off of items modified by them. Plus they must let other modify their derivative efforts. </para>
+          <para id="id22333851">_____ - _____ - _____ - _____</para>
+        </problem>
+        <solution id="oo-id22287296">
+          <para id="id22333852">CC-BY-NC</para>
+          <para id="id22011902">CC-BY-NC-ND</para>
+          <para id="id22011906">CC-BY</para>
+          <para id="id22011911">CC-BY-SA</para>
+          <para id="id22208171">CC-BY-ND</para>
+          <para id="id22208174">CC-BY-NC-SA</para>
+        </solution>
+      </exercise>
+      <exercise id="id22330874">
+        <problem id="oo-id22496304">
+          <para id="id22022722">Different adopters will desire to use materials in different ways.</para>
+          <para id="id22022727">Identify which licenses will satisfy each of the following adopters.</para>
+          <para id="id22304216">Place a two letter item in a blank space. Some items will not use all four spaces.</para>
+          <para id="id22304222">I don’t mind if I am restricted from commercial endeavors. I don’t want to have others pressuring me into changing another author’s works.</para>
+          <para id="id22218716">_____ - _____ - _____ - _____</para>
+          <para id="id22218710">_____ - _____ - _____ - _____</para>
+          <para id="id22002468">I like being able to change the original author’s works to suit my needs. Other restrictions don’t bother me.</para>
+          <para id="id22002478">_____ - _____ - _____ - _____</para>
+          <para id="id21970796">_____ - _____ - _____ - _____</para>
+          <para id="id21970800">_____ - _____ - _____ - _____</para>
+          <para id="id21970804">_____ - _____ - _____ - _____</para>
+          <para id="id22230813">I like being able to change the original author’s works to suit my needs. I don’t want any commercial use restrictions.</para>
+          <para id="id21945786">_____ - _____ - _____ - _____</para>
+          <para id="id21945790">_____ - _____ - _____ - _____</para>
+          <para id="id21945794">I want the greatest flexibility in using another author’s materials.</para>
+          <para id="id22330877">_____ - _____ - _____ - _____</para>
+        </problem>
+        <solution id="oo-id21880492">
+          <para id="id22330878">CC-BY-ND and CC-BY-NC-ND</para>
+          <para id="id22330883">CC-BY, CC-BY-SA, CC-BY-NC and CC-BY-NC-SA</para>
+          <para id="id22341322">CC-BY and CC-BY-SA</para>
+          <para id="id22341327">CC-BY</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="id22341332">
+      <title>License of Choice</title>
+      <para id="id22186690">The <emphasis effect="bold">CC-BY</emphasis> license is the most liberal of the 6 licenses and allows others to freely use your creative works. This license conveys the ability for others to copy, adapt, distribute and transmit the work as long as they attribute (give you the original author credit for) the work. One organization, the Community College Open Textbook Collaboration (CCOTC), encourages the use of this most liberal license. The Connexions Project (the module you are reading) uses the CC-BY license for all materials in its repository. This philosophy of open sharing was re-confirmed at the Connexions Consortium’s 1<sup>st</sup> Annual Meeting on February 1, 2010. To help emphasize the ability to remix or reuse existing content, the term “<emphasis effect="bold">Frictionless Reuse</emphasis>” was coined by the President of the Connexions Consortium Board of Directors, Brad Wheeler<footnote id="id21985271">Dr. Bradley C. Wheller – Biography at: <link url="http://ovpit.iu.edu/bios/bwheeler.html">http://ovpit.iu.edu/bios/bwheeler.html</link></footnote>. Thus, users of the Connexions repository may become authors sharing their materials and freely using or improving (changing) existing materials <emphasis effect="bold">without worrying about copyright infringement</emphasis>. </para>
+    </section>
+    <section id="id22344793">
+      <title>In-Person Workshop Handouts</title>
+      <para id="id22119683">Download from Connexions: <link url="/content/m34106/latest/Busbee_CC_Attribution_Licenses_Ver2.doc">Busbee_CC_Attribution_Licenses_Ver2.doc</link></para>
+    </section>
+  </content>
+</document>

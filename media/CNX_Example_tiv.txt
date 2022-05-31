@@ -1,0 +1,75 @@
+! SoftChalk LessonBuilder TIV File (C)2003-2008
+! ================ DO NOT EDIT ================
+
+act_item=5
+
+act_num=3
+act_type=2
+items=6
+colorChoice=_B
+showList=false
+showFlashCardTerm=true
+showFlashCardDef=false
+useFlashBigText=false
+instructions=Click 'Show' to see the hidden portion.
+wordPair[1]=Lesson Builder|A software item for building lessons by SoftChalk.|noimage
+wordPair[2]=SoftChalk|A software company that makes tools so that it is easy for educators to connect with their learners.|noimage
+wordPair[3]=Activity|For computers it is often an interactive tool.|noimage
+wordPair[4]=Flash Cards|Cards used to memorize information.|noimage
+wordPair[5]=Crossword|A puzzle that list clues and you provide the word that fits into an interlocking answer area.|noimage
+wordPair[6]=SeekaWord|An activity were you find the list of words in a matix of alphabetic letters.|noimage
+inline=false
+points=0
+showRestart=true
+sqrsize=20
+adaDescription=
+hotspotWidth=450
+hotspotHeight=500
+
+act_num=4
+act_type=6
+items=6
+colorChoice=_B
+showList=false
+showFlashCardTerm=true
+showFlashCardDef=false
+useFlashBigText=false
+instructions=Solve the crossword puzzle.
+wordPair[1]=LessonBuilder|A software item for building lessons by SoftChalk.
+wordPair[2]=SoftChalk|A software company that makes tools so that it is easy for educators to connect with their learners.
+wordPair[3]=Activity|For computers it is often an interactive tool.
+wordPair[4]=FlashCards|Cards used to memorize information.
+wordPair[5]=Crossword|A puzzle that list clues and you provide the word that fits into an interlocking answer area.
+wordPair[6]=SeekaWord|An activity were you find the list of words in a matix of alphabetic letters.
+inline=false
+points=0
+showRestart=true
+sqrsize=20
+adaDescription=
+hotspotWidth=450
+hotspotHeight=500
+
+act_num=5
+act_type=3
+items=6
+colorChoice=_B
+showList=false
+showFlashCardTerm=true
+showFlashCardDef=false
+useFlashBigText=false
+instructions=Click and drag to highlight a found word from the list.
+seekawordHintOption=true
+wordPair[1]=LessonBuilder
+wordPair[2]=SoftChalk
+wordPair[3]=Activity
+wordPair[4]=FlashCards
+wordPair[5]=Crossword
+wordPair[6]=SeekaWord
+inline=false
+points=0
+showRestart=true
+sqrsize=20
+adaDescription=
+hotspotWidth=450
+hotspotHeight=500
+
